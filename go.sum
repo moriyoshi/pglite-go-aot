@@ -6,6 +6,8 @@ github.com/moriyoshi/pglite-go v0.0.0-20260821104308-514f3b44539a h1:FMbs/cx0OmG
 github.com/moriyoshi/pglite-go v0.0.0-20260821104308-514f3b44539a/go.mod h1:gxST3houx3otLEld73sCjpdIhJXSA0OuDZuMfsJc6HI=
 github.com/moriyoshi/pglite-go v0.0.0-20260924200137-2b867de616c6 h1:poI9lAGTT76qpSVYw07OpeRdUZDDgGTGODBrgaGQELs=
 github.com/moriyoshi/pglite-go v0.0.0-20260924200137-2b867de616c6/go.mod h1:gxST3houx3otLEld73sCjpdIhJXSA0OuDZuMfsJc6HI=
+github.com/moriyoshi/pglite-go v0.1.0 h1:7ylj0As6ToF1x++uyWBFj5m6R1JILf/KGZ781XpPpc4=
+github.com/moriyoshi/pglite-go v0.1.0/go.mod h1:gxST3houx3otLEld73sCjpdIhJXSA0OuDZuMfsJc6HI=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/stretchr/testify v1.8.0 h1:pSgiaMZlXftHpm5L7V1+rVB+AZJydKsMxsQBIJw4PKk=

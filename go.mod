@@ -3,7 +3,7 @@ module github.com/moriyoshi/pglite-go-aot
 go 1.25.5
 
 require (
-	github.com/moriyoshi/pglite-go v0.0.0-20260924200137-2b867de616c6
+	github.com/moriyoshi/pglite-go v0.1.0
 	github.com/tetratelabs/wazero v1.11.0
 )
 
